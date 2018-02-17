@@ -1,0 +1,46 @@
+<?xml version = "1.0"?>
+<class>
+    <vehicle name = "Vehicle">
+        <speed>50</speed>
+        <max_speed>250</max_speed>
+        <delay>2.5</delay>
+    </vehicle>
+    
+    <vehicle name = "Vehicle3">
+        <speed>80</speed>
+        <max_speed>120</max_speed>
+        <delay>8.0</delay>
+    </vehicle>
+
+    <vehicle name = "Vehicle4">
+        <speed>100</speed>
+        <max_speed>230</max_speed>
+        <delay>12.0</delay>
+    </vehicle>
+
+    <vehicle name = "Vehicle5">
+        <speed>80</speed>
+        <max_speed>120</max_speed>
+        <delay>14.0</delay>
+    </vehicle>
+
+    <sign name = "Sign">
+        <y_begin>1000</y_begin>
+        <y_end>2000</y_end>
+        <max_speed>50</max_speed>
+    </sign>
+    <sign name = "Sign2">
+        <y_begin>5000</y_begin>
+        <y_end>6000</y_end>
+        <max_speed>60</max_speed>
+    </sign>
+
+    <emergency name = "Emergency">
+        <speed>150</speed>
+        <max_speed>300</max_speed>
+        <delay>10.75</delay>
+    </emergency>
+
+
+
+</class>
